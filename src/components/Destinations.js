@@ -3,7 +3,6 @@ import borabora from "../assests/borabora.jpg";
 import borabora2 from "../assests/borabora2.jpg";
 import maldives from "../assests/maldives.jpg";
 import maldives2 from "../assests/maldives2.jpg";
-import maldives3 from "../assests/maldives3.jpg";
 import keywest from "../assests/keywest.jpg";
 
 const Destinations = () => {
